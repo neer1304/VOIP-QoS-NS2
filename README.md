@@ -1,2 +1,2 @@
 # VOIP-QoS-NS2
-Simulated VOIP Protocol on NS2. Analysed QoS parameters.
+Simulated VOIP Protocol on NS2. Analysed QoS parameters for different VoIP codecs.
